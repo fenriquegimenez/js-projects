@@ -1,0 +1,14 @@
+{
+  "name": "js-calculator",
+  "version": "1.0.0",
+  "description": "calculator made to practice javascript",
+  "main": "index.js",
+  "scripts": {
+    "calc": "node index.js"
+  },
+  "author": "Enrique Gimenez",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
